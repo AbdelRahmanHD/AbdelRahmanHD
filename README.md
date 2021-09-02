@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelRahmanHD
 - 👀 I’m interested in ... Web Developing
-- 🌱 I’m currently learning ... mathematics and Computer Science
-- 💞️ I’m looking to collaborate on ... Made Sites & Programs
+- 🌱 I’m currently learning ... Mathematics and Computer Science
+- 💞️ I’m looking to collaborate on ... Make Sites & Programs
 - 📫 How to reach me ... on this email
 
 <!---
